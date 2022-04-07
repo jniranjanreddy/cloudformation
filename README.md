@@ -166,4 +166,13 @@ Blan lines are converted to a new line character.
 Comments
 ```
 # used for comments
+```
 ``` 
+Intrinsic 
+    AWS::EC2::Instance
+       AvailabilityZone
+       PrivateDnsName
+       PrivateIp
+       PublicDnsName
+       PublicIp
+```
