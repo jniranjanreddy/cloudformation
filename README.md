@@ -167,12 +167,19 @@ Comments
 ```
 # used for comments
 ```
-``` 
-Intrinsic 
-    AWS::EC2::Instance
+Intrinsic
+```
+AWS::EC2::Instance
        AvailabilityZone
        PrivateDnsName
        PrivateIp
        PublicDnsName
        PublicIp
+```
+Metadata
+```
+   Three types of Metadata..
+    AWS::CloudFormation::Designer
+    AWS::CloudFormation::Interface
+    AWS::CloudFormation::Init
 ```
